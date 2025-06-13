@@ -1,0 +1,2 @@
+# terraformfuntions
+practicing terraform functions 
